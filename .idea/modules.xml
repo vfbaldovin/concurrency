@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1. even numbers/1. even numbers.iml" filepath="$PROJECT_DIR$/1. even numbers/1. even numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. countdownlatch and atomic objects/10. countdownlatch and atomic objects.iml" filepath="$PROJECT_DIR$/10. countdownlatch and atomic objects/10. countdownlatch and atomic objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11. thread local/11. thread local.iml" filepath="$PROJECT_DIR$/11. thread local/11. thread local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12. concurrent collections/12. concurrent collections.iml" filepath="$PROJECT_DIR$/12. concurrent collections/12. concurrent collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2. runnable interface/2. runnable interface.iml" filepath="$PROJECT_DIR$/2. runnable interface/2. runnable interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3. synchronized keyword/3. synchronized keyword.iml" filepath="$PROJECT_DIR$/3. synchronized keyword/3. synchronized keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4. wait, notify, volatile keyword/4. wait, notify, volatile keyword.iml" filepath="$PROJECT_DIR$/4. wait, notify, volatile keyword/4. wait, notify, volatile keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5. deadlock/5. deadlock.iml" filepath="$PROJECT_DIR$/5. deadlock/5. deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6. executor services/6. executor services.iml" filepath="$PROJECT_DIR$/6. executor services/6. executor services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7. future, runnable, callable/7. future, runnable, callable.iml" filepath="$PROJECT_DIR$/7. future, runnable, callable/7. future, runnable, callable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8. forkjoin/8. forkjoin.iml" filepath="$PROJECT_DIR$/8. forkjoin/8. forkjoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9. blocking objects/9. blocking objects.iml" filepath="$PROJECT_DIR$/9. blocking objects/9. blocking objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency.iml" />
+    </modules>
+  </component>
+</project>
